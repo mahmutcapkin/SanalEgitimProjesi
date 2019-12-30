@@ -1,0 +1,706 @@
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\E-Sinav.exe.config
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\E-Sinav.exe
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\E-Sinav.pdb
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E-Sinav.exe.config
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E_Sinav.Form1.resources
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E_Sinav.Properties.Resources.resources
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E-Sinav.exe.licenses
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csproj.CopyComplete
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E-Sinav.exe
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E-Sinav.pdb
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmGiris.resources
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Win.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Map.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraMap.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Win.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Map.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraMap.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmSoruEkle.resources
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmOgrenci.resources
+C:\Users\asus\source\repos\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmTestCoz.resources
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\E-Sinav.exe.config
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\E-Sinav.exe
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\E-Sinav.pdb
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Win.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Map.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraMap.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Win.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Map.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraMap.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E-Sinav.exe.config
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmOgretmen.resources
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmGiris.resources
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmOgrenci.resources
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmSoruEkle.resources
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmTestCoz.resources
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E_Sinav.Properties.Resources.resources
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E-Sinav.exe.licenses
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csproj.CopyComplete
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E-Sinav.exe
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E-Sinav.pdb
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmIstatistik.resources
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmTumIstatistikler.resources
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\E-Sinav.ORM.dll
+C:\Users\asus\Desktop\İCONS\E-Sinav\E-Sinav\bin\Debug\E-Sinav.ORM.pdb
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\E-Sinav.exe.config
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\E-Sinav.exe
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\E-Sinav.pdb
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Win.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Map.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraMap.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\E-Sinav.ORM.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\E-Sinav.ORM.pdb
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Dashboard.v19.2.Win.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Map.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraMap.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E-Sinav.exe.config
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmIstatistik.resources
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmOgretmen.resources
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmGiris.resources
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmOgrenci.resources
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmSoruEkle.resources
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmTestCoz.resources
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E_Sinav.FrmTumIstatistikler.resources
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E_Sinav.Properties.Resources.resources
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E-Sinav.exe.licenses
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E-Sinav.csproj.CopyComplete
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E-Sinav.exe
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\obj\Debug\E-Sinav.pdb
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\asus\Desktop\TEST PROJE\E-Sinav\E-Sinav\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
