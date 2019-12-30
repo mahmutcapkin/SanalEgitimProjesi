@@ -41,5 +41,5 @@
     
    <img src="https://github.com/mahmutcapkin/SanalEgitimProjesi/blob/master/screenshots/ogristatistik.png">
    
- <p>Bu projede tasarım için Bunifu Framework kullanılmıştır.<br>Proje Mahmut Çapkın ve Onur Yeşil tarafından geliştirilmiştir.
+ <p>Bu projede tasarım için Bunifu Framework kullanılmıştır.<br>Proje Onur Yeşil ve Mahmut Çapkın tarafından geliştirilmiştir.
       
