@@ -146,7 +146,6 @@ namespace E_Sinav
             btnİleri.Visible = true;
         }
 
-
         public  void ButonBoya()
         {
             btnA.BackColor = Color.FromArgb(46,139,87);
@@ -180,7 +179,6 @@ namespace E_Sinav
             }
 
         }
-
         private void btnB_Click(object sender, EventArgs e)
         {
             ButonBoya();
@@ -228,8 +226,6 @@ namespace E_Sinav
             btnBitir.Enabled = false;
         }
 
-
-
         public void labelGorunumT()
         {
             lblDogru.Visible = true;
@@ -252,7 +248,6 @@ namespace E_Sinav
             lblBsayi.Visible = false;
             lblBsayisi.Visible = false;
         }
-
 
     }
 }

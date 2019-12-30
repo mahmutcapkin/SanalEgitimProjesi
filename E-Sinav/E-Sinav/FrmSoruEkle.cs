@@ -42,8 +42,7 @@ namespace E_Sinav
             deger = dgwListe.RowCount-2;          
             dgwOgrenci.DataSource= Ogrenciler.OgrenciGetir();          
             SoruEkleme();   
-        }
-       
+        }      
         public void Temizle()
         {
             txtA.Text = "";
@@ -58,7 +57,6 @@ namespace E_Sinav
             pcbSoru.Invalidate();
             pcbSoru.Visible = false;
         }
-
 
         private void txtSoruMetni_KeyPress(object sender, KeyPressEventArgs e)
         {
@@ -92,7 +90,6 @@ namespace E_Sinav
                 e.Handled = true;
             }
         }
-
 
         private void txtB_KeyPress(object sender, KeyPressEventArgs e)
         {
@@ -184,6 +181,5 @@ namespace E_Sinav
             else
                 MessageBox.Show("Soru Eklenemedi Lütfen Tekrar deneyiniz", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
-
     }
 }
